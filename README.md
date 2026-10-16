@@ -119,66 +119,271 @@ My work spans **Machine Learning, Generative AI, Retrieval-Augmented Generation 
 
 ## 🚀 Featured Projects
 
-A selection of projects across AI, intelligent automation, computer vision, and full-stack development.
+<div align="center">
+
+  <h3>Engineering Intelligence Into Real-World Solutions</h3>
+
+  <p>
+    From AI-powered knowledge retrieval to autonomous rescue systems, I build applications that combine intelligent algorithms, backend engineering, automation, and practical problem-solving.
+  </p>
+
+</div>
+
+---
+
+### 🧠 AI & Intelligent Systems
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚁 Jatayu — Autonomous Rescue Drone</h3>
-      <p><b>Smart India Hackathon 2024 Winner</b></p>
-      <p>An autonomous drone-based disaster-response project focused on supporting rescue operations and real-world emergency scenarios.</p>
-      <p><b>Focus:</b> Autonomous systems · Robotics · Disaster response</p>
+      <h3>🛡️ AI Insurance Chatbot</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Generative_AI-RAG-7B61FF?style=flat-square" alt="RAG" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant" />
+      </p>
+      <p><b>Problem:</b> Insurance information can be difficult to navigate when users need relevant policy details and contextual answers.</p>
+      <p><b>Solution:</b> Developed an AI-powered insurance assistant using retrieval-augmented generation to retrieve relevant policy information and generate contextual responses.</p>
+      <p><b>Engineering highlights:</b></p>
+      <ul>
+        <li>Semantic retrieval using a vector database.</li>
+        <li>Policy discovery and context-aware response generation.</li>
+        <li>Backend integration and database migration workflows.</li>
+        <li>Retrieval quality, filtering, and response reliability considerations.</li>
+      </ul>
+      <p><b>Tech:</b> Python · RAG · Qdrant · Supabase · REST APIs</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🛩️ Automated Multidrone Rescue Operation</h3>
-      <p><a href="https://github.com/Ashivam3845/Automated-Multidrone-Rescue-Operation">View Repository →</a></p>
-      <p>A software project focused on coordinating drone-based rescue operations and exploring automated responses to emergency scenarios.</p>
-      <p><b>Stack:</b> Python</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 AI Insurance Chatbot</h3>
-      <p>An AI-powered insurance assistant designed to retrieve relevant policy information and provide contextual answers using retrieval-augmented generation.</p>
-      <p><b>Focus:</b> RAG · Python · Qdrant · Supabase · Backend APIs</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏭 AI-Based Textile Defect Detection</h3>
-      <p>A computer-vision application aimed at identifying textile defects to support industrial quality inspection.</p>
-      <p><b>Focus:</b> Machine Learning · Computer Vision · Image Processing</p>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📄 INTELLIPATENT-AI</h3>
-      <p><a href="https://github.com/Ashivam3845/INTELLIPATENT-AI">View Repository →</a></p>
-      <p>A multipurpose AI-assisted tool for patent analysis and research workflows.</p>
-      <p><b>Stack:</b> TypeScript</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔎 Candidate Sourcing Automation</h3>
-      <p>An application combining browser automation, backend APIs, and a web interface to support candidate discovery and profile analysis.</p>
-      <p><b>Stack:</b> FastAPI · React · Playwright · Python</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI_Assisted_Research-8E44AD?style=flat-square" alt="AI research" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+      <p><b>Problem:</b> Patent analysis involves navigating technical documents and identifying relevant information for research.</p>
+      <p><b>Solution:</b> Built a multipurpose tool designed to assist patent analysis and research workflows.</p>
+      <p><b>Engineering highlights:</b></p>
+      <ul>
+        <li>AI-assisted patent research workflows.</li>
+        <li>Application development using TypeScript.</li>
+        <li>Combines software engineering with patent-domain knowledge.</li>
+      </ul>
+      <p><b>Tech:</b> TypeScript · AI-assisted analysis</p>
+      <p><a href="https://github.com/Ashivam3845/INTELLIPATENT-AI"><b>Explore Repository →</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Hospital Management System</h3>
-      <p><a href="https://github.com/Ashivam3845/Hospital_managment-_system">View Repository →</a></p>
-      <p>A software application focused on organizing hospital management workflows.</p>
-      <p><b>Stack:</b> TypeScript</p>
+      <h3>🏭 AI-Based Textile Defect Detection</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square" alt="Computer vision" />
+        <img src="https://img.shields.io/badge/Industrial_AI-00796B?style=flat-square" alt="Industrial AI" />
+      </p>
+      <p><b>Problem:</b> Textile quality inspection requires identifying defects in fabric and textile images.</p>
+      <p><b>Solution:</b> An industrial-focused computer-vision project aimed at detecting textile defects using machine learning and image analysis.</p>
+      <p><b>Engineering focus:</b></p>
+      <ul>
+        <li>Image-based defect identification.</li>
+        <li>Machine-learning workflows for visual inspection.</li>
+        <li>Potential integration into industrial quality-control processes.</li>
+      </ul>
+      <p><b>Tech:</b> Python · Computer Vision · Machine Learning</p>
     </td>
     <td width="50%" valign="top">
-      <h3>💹 Finverse</h3>
-      <p><a href="https://github.com/Ashivam3845/Finverse-cashack">View Repository →</a></p>
-      <p>A finance-oriented application developed as a hackathon project.</p>
-      <p><b>Stack:</b> TypeScript</p>
+      <h3>🔬 AniSense — Behavioral Analysis AI</h3>
+      <p>
+        <img src="https://img.shields.io/badge/AI_Research-6A5ACD?style=flat-square" alt="AI research" />
+        <img src="https://img.shields.io/badge/Behavioral_Analysis-00897B?style=flat-square" alt="Behavioral analysis" />
+      </p>
+      <p><b>Objective:</b> Explore AI-based behavioral analysis through an applied research project.</p>
+      <p><b>Project focus:</b></p>
+      <ul>
+        <li>Investigating AI-driven behavioral analysis.</li>
+        <li>Applying computational methods to behavioral data.</li>
+        <li>Exploring intelligent analysis workflows.</li>
+      </ul>
+      <p><b>Tech:</b> AI/ML · Behavioral Analysis</p>
     </td>
   </tr>
 </table>
 
-> More engineering work includes AniSense, a behavioral-analysis AI research project; HealthStack, a Django-based healthcare platform; and IoT solutions involving GPS/GSM connectivity, MQTT, and Raspberry Pi.
+---
 
+### 🚁 Robotics, IoT & Intelligent Automation
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏆 Jatayu — Autonomous Rescue Drone</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Smart_India_Hackathon-2024_Winner-DAA520?style=flat-square" alt="Smart India Hackathon 2024 Winner" />
+        <img src="https://img.shields.io/badge/Disaster_Response-Engineering-00897B?style=flat-square" alt="Disaster response" />
+      </p>
+      <p><b>Mission:</b> Explore autonomous drone technology for disaster-response and rescue scenarios.</p>
+      <p><b>Solution:</b> A rescue-oriented drone project developed to address real-world emergency-response challenges.</p>
+      <p><b>Highlights:</b></p>
+      <ul>
+        <li>Disaster-management problem solving.</li>
+        <li>Autonomous rescue-system concepts.</li>
+        <li>Engineering innovation recognized at Smart India Hackathon 2024.</li>
+      </ul>
+      <p><b>Focus:</b> Robotics · Autonomous Systems · Disaster Management</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛩️ Automated Multidrone Rescue Operation</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Automation-00897B?style=flat-square" alt="Automation" />
+      </p>
+      <p><b>Challenge:</b> Explore how multiple drones can support coordinated rescue operations.</p>
+      <p><b>Solution:</b> A Python-based project focused on automating aspects of multidrone rescue operations.</p>
+      <p><b>Engineering focus:</b></p>
+      <ul>
+        <li>Automation-oriented rescue workflows.</li>
+        <li>Software design for multidrone operations.</li>
+        <li>Disaster-response application scenarios.</li>
+      </ul>
+      <p><a href="https://github.com/Ashivam3845/Automated-Multidrone-Rescue-Operation"><b>Explore Repository →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📡 Smart Transport & Bus Tracking</h3>
+      <p>
+        <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square" alt="IoT" />
+        <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square" alt="MQTT" />
+        <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+      </p>
+      <p><b>Objective:</b> Explore connected transport monitoring through embedded hardware and location-aware systems.</p>
+      <p><b>Engineering components:</b></p>
+      <ul>
+        <li>Raspberry Pi-based system integration.</li>
+        <li>GPS/GSM connectivity concepts.</li>
+        <li>MQTT-based communication workflows.</li>
+      </ul>
+      <p><b>Tech:</b> Raspberry Pi · GPS/GSM · MQTT · Embedded Systems</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💧 Smart Bottle — IoT Project</h3>
+      <p>
+        <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square" alt="IoT" />
+        <img src="https://img.shields.io/badge/Embedded_Systems-455A64?style=flat-square" alt="Embedded systems" />
+      </p>
+      <p><b>Objective:</b> Explore connected smart-bottle functionality through embedded hardware and sensor-based systems.</p>
+      <p><b>Engineering focus:</b></p>
+      <ul>
+        <li>Hardware and software integration.</li>
+        <li>Sensor-driven application concepts.</li>
+        <li>Connected-device development.</li>
+      </ul>
+      <p><b>Tech:</b> IoT · Embedded Systems · Microcontrollers</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ Full-Stack Engineering & Developer Tools
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 Candidate Sourcing Automation</h3>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+      </p>
+      <p><b>Problem:</b> Candidate research can involve repetitive profile discovery, filtering, and information gathering.</p>
+      <p><b>Solution:</b> Developed a desktop-packaged candidate-sourcing application with a React frontend, FastAPI backend, and browser automation.</p>
+      <p><b>Engineering highlights:</b></p>
+      <ul>
+        <li>Frontend-to-backend API integration.</li>
+        <li>Browser automation using Playwright.</li>
+        <li>Candidate discovery based on experience, location, and relevant skills.</li>
+        <li>Packaging workflows using PyInstaller for Linux and Windows.</li>
+      </ul>
+      <p><b>Tech:</b> Python · FastAPI · React · TypeScript · Playwright · PyInstaller</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 Hospital Management System</h3>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Full_Stack_Development-455A64?style=flat-square" alt="Full-stack development" />
+      </p>
+      <p><b>Objective:</b> Develop an application for organizing hospital-management workflows.</p>
+      <p><b>Engineering focus:</b></p>
+      <ul>
+        <li>Application structure and interface development.</li>
+        <li>Software workflows for hospital administration.</li>
+        <li>Full-stack application development.</li>
+      </ul>
+      <p><a href="https://github.com/Ashivam3845/Hospital_managment-_system"><b>Explore Repository →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💹 Finverse — Finance Application</h3>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Hackathon_Project-7B61FF?style=flat-square" alt="Hackathon project" />
+      </p>
+      <p>A finance-oriented application developed as a hackathon project, demonstrating application development and product-oriented problem solving.</p>
+      <p><b>Focus:</b> TypeScript · Application Development</p>
+      <p><a href="https://github.com/Ashivam3845/Finverse-cashack"><b>Explore Repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 HealthStack — Healthcare Platform</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+      <p>A Django-based healthcare platform focused on building application workflows using backend development and database integration.</p>
+      <p><b>Tech:</b> Django · Python · Django REST Framework · SQLite</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧩 How I Approach Engineering
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>🧠</h3>
+      <b>AI & Research</b>
+      <p><sub>Model development, intelligent retrieval, and applied research.</sub></p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🔌</h3>
+      <b>Integration</b>
+      <p><sub>APIs, databases, frontend systems, and connected hardware.</sub></p>
+    </td>
+    <td align="center" width="25%">
+      <h3>⚙️</h3>
+      <b>Deployment</b>
+      <p><sub>Packaging, pipeline troubleshooting, logging, and reliability.</sub></p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🚀</h3>
+      <b>Problem Solving</b>
+      <p><sub>Turning technical ideas into usable applications.</sub></p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+  <h3>Have an interesting problem to solve?</h3>
+
+  <p>I'm interested in collaborating on AI/ML, intelligent automation, MLOps, and full-stack engineering projects.</p>
+
+  <a href="https://github.com/Ashivam3845">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories" />
+  </a>
+
+</div>
 ## 💼 Professional Experience
 
 <table>
